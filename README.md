@@ -3,6 +3,7 @@
 
 ## [ICRA 2025] Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots
 
+Authors: [Yuhao Cao](https://github.com/ZorAttC), [Yu Wang](https://github.com/wangyu-060070) and [Haoyao Chen](https://ieeexplore.ieee.org/author/37600762500) from [the Networked Robotics and Systems Lab, HITSZ](https://www.nrs-lab.com/)
 Our paper is currently undergoing peer review. The code and application will be released once the paper is accepted.
 
 ### Introduction
