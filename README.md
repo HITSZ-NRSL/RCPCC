@@ -81,6 +81,6 @@ Adjust these Field of View (FOV) parameters based on your LiDAR setup. The defau
 ### Thanks 🙏
 Explore raw data from [KITTI](http://www.cvlibs.net/datasets/kitti/) for more experiments! The Velodyne data is plug-and-play—just specify the file path and compression level.  
 
-We’re deeply inspired by and borrowed heavily from:  
+We’re deeply inspired by:  
 🌟 [Real-Time Spatio-Temporal LiDAR Point Cloud Compression](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression)  
 
