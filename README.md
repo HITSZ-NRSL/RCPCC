@@ -86,11 +86,11 @@ We’re deeply inspired by:
 
 ### Citation 📚
 If you find this codebase helpful for your research or projects, please cite our paper:
-'''latex
+```latex
 @article{cao2025realtime,
   title={Real-Time LiDAR Point Cloud Compression and Transmission for Resource-Constrained Robots},
   author={Cao, Yuhao and Wang, Yu and Chen, Haoyao},
   journal={arXiv preprint arXiv:2502.06123},
   year={2025}
 }
-'''
+```
