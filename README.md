@@ -84,3 +84,13 @@ Explore raw data from [KITTI](http://www.cvlibs.net/datasets/kitti/) for more ex
 We’re deeply inspired by:  
 🌟 [Real-Time Spatio-Temporal LiDAR Point Cloud Compression](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression)  
 
+### Citation 📚
+If you find this codebase helpful for your research or projects, please cite our paper:
+'''latex
+@article{cao2025realtime,
+  title={Real-Time LiDAR Point Cloud Compression and Transmission for Resource-Constrained Robots},
+  author={Cao, Yuhao and Wang, Yu and Chen, Haoyao},
+  journal={arXiv preprint arXiv:2502.06123},
+  year={2025}
+}
+'''
